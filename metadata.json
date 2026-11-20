@@ -1,0 +1,8 @@
+{
+  "name": "Campus Pulse",
+  "description": "AI-powered campus event discovery and registration platform connecting students and campus organisers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
